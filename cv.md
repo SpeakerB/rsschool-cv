@@ -6,7 +6,7 @@ e-mail: | pav.mikhailov@gmail.com
 ------------ | -------------
 Discord Tag: | SpeakerB#9341
 
-Learning to code stuff. Eventually I will.
+Learning to code stuff. 
 
 Code examples (*you are here*)
 
