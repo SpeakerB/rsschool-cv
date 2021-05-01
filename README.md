@@ -1,2 +1,2 @@
 # rsschool-cv
-Education
+https://speakerb.github.io/rsschool-cv/cv
